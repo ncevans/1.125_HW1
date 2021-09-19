@@ -1,7 +1,7 @@
 /************************************************************/
 /*    NAME: Craig Evans                                     */
 /*    ORGN: MIT, Cambridge MA                               */
-/*    FILE: PathDevelop.cpp                                 */
+/*    FILE: index.js                                 */
 /*    DATE: September 19, 2021                              */
 /*    Code referenced from course 1.125 Dr. Abel Sanchez    */
 /************************************************************/
