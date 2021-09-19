@@ -1,3 +1,11 @@
+/************************************************************/
+/*    NAME: Craig Evans                                     */
+/*    ORGN: MIT, Cambridge MA                               */
+/*    FILE: PathDevelop.cpp                                 */
+/*    DATE: September 19, 2021                              */
+/*    Code referenced from course 1.125 Dr. Abel Sanchez    */
+/************************************************************/
+
 var express = require('express');
 var app = express();
 var fetch = require('node-fetch');
